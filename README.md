@@ -1,5 +1,3 @@
-# Meteor boilerplate
+# Tuneslap
 
-(ALPHA)
-
-Meteor boilerplate for projects using Meteor, Universe Modules, React, and Bootstrap.
+Spotify playlist manager written in Meteor and React.

@@ -1,8 +1,8 @@
-import Layout from '/components/layout';
+import Layout from '/client/components/layout';
 
-import Home from '/components/home';
+import Home from '/client/components/home';
 
-DocHead.setTitle("Meteor");
+DocHead.setTitle("Tuneslap");
 DocHead.addMeta({ name:"viewport", content:"width=device-width, initial-scale=1" });
 
 FlowRouter.route('/', {

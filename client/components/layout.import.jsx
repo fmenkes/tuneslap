@@ -1,4 +1,4 @@
-import Navbar from './navbar';
+import Navbar from './navbar.import';
 
 export default React.createClass({
     render () {
